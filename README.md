@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, I'm Victor Olatunji</h1> 
-  <p align="center"> I am a Software Developer focused on (React, Js)</p>
+  <p align="center"> I am a frontend Developer focused on (React, Js)</p>
 </p>
 
 <p align='center'>
