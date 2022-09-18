@@ -1,19 +1,19 @@
 <p align="center">
-  <h1 align='center'>Hi there 👋🏾, I'm Victor Olatunji</h1> 
-  <p align="center"> I am a frontend Developer focused on (React, Js)</p>
+  <h1 align='center'>Hi there 👋🏾, I'm Hilya Ntinda</h1> 
+  <p align="center"> I am a Web Developer Specialists </p>
 </p>
 
 <p align='center'>
-<a href="https://wa.me/2349075789680?text=Hello Victor" target="_blank">
+<a href="https://wa.me/+264813867303?text=Hello Victor" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/VickyJayTech" target="_blank">
+<a href="https://twitter.com/tuu_kuku" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/victor-tolu-olatunji-889568246/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:victoluolatunji@gmail.com" target="_blank">
+<a href="mailto:ntindahilyai@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/Victorola-coder" />
@@ -22,8 +22,8 @@
   
   
   <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Victorola-coder&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Victorola-coder&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Hilya02&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hilya02&theme=tokyonight">
 </p>
 </p>
  
