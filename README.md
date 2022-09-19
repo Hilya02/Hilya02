@@ -10,7 +10,7 @@
 <a href="https://twitter.com/tuu_kuku" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/victor-tolu-olatunji-889568246/" target="_blank">
+<a href="https://www.linkedin.com/in/hilya-ntinda-910487143/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:ntindahilyai@gmail.com" target="_blank">
