@@ -18,8 +18,6 @@
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/Victorola-coder" />
   </a>&nbsp;&nbsp;
-  <a href="https://wakatime.com/@71012fa4-1b94-4222-862a-ae7462bd8403"><img src="https://wakatime.com/badge/user/71012fa4-1b94-4222-862a-ae7462bd8403.svg" alt="Total time coded since Apr 1 2022" /></a>
-  
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Hilya02&show_icons=true&theme=tokyonight&line_height=27">
