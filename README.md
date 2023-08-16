@@ -20,8 +20,6 @@
 <a href="mailto:ntindahilyai@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/Victorola-coder" />
-  </a>&nbsp;&nbsp;
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Hilya02&show_icons=true&theme=tokyonight&line_height=27">
