@@ -1,7 +1,11 @@
 <p align="center">
-  <h1 align='center'>Hi there 👋🏾, I'm Hilya Ntinda</h1> 
-  <p align="center"> I am a Web Developer Specialists </p>
-</p>
+  <h1 align='center'>Hi there 👋🏾, My name is Hilya Ntinda</h1> 
+  <p align="center"> I am Web Developer Specialists from Namibia, I am looking for remote, hybrid and full time opportunities </p>
+<h2>
+- I’m currently working as a IT Manager after servig as a Web Developer Specialist for 3 Years.  <br>
+- Looking for Web, Software and IT opportunities.  <br>
+- I am currently persuing a Front-End ALX Software Engineering course online. <br>
+</h2>
 
 <p align='center'>
 <a href="https://wa.me/+264813867303?text=Hello Hilya" target="_blank">
