@@ -3,7 +3,7 @@
   <p align="center"> I am Web Developer Specialists from Namibia, I am looking for remote, hybrid and full time opportunities </p>
 <h4>
 - I’m currently working as a IT Manager after serving as a Web Developer Specialist for 3 Years.  <br>
-- Looking for Web, Software and IT opportunities.  <br>
+- I am Looking for Web, Software and IT opportunities. <br>
 - I am currently persuing a Front-End ALX Software Engineering course online. <br>
 </h4>
 
