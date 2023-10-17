@@ -1,11 +1,18 @@
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, My name is Hilya Ntinda</h1> 
-  <p align="center"> I am Web Developer Specialists from Namibia, I am looking for remote, hybrid and full time opportunities </p>
+  <p align="center"> 👨‍💻 Web Developer Specialist | IT Manager | Namibia </p>
+  <p align="center"> 🚀 Seeking remote, hybrid, and full-time opportunities </p>
+
+🌟 3+ years of experience in web development
+🌐 Exploring Web, Software, and IT opportunities
+📚 Pursuing Front-End ALX Software Engineering course
   
 <p align="center"><h4>
-- I’m currently working as a IT Manager after serving as a Web Developer Specialist for 3 Years.  <br>
-- I am Looking for Web, Software and IT opportunities. <br>
-- I am currently persuing a Front-End ALX Software Engineering course online. <br>
+- 👨‍💻 IT Manager  <br>
+- 🌟 4+ years of experience in Web Development. <br>
+- 🌐 Exploring Web, Software, and IT opportunities. <br>
+- 📚 Pursuing Front-End ALX Software Engineering course. <br>
+    <p align="center"> Let's connect and collaborate on exciting projects! 💡 </p>
 </h4>
 
 <p align='center'>
