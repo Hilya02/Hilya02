@@ -3,9 +3,7 @@
   <p align="center"> 👨‍💻 Web Developer Specialist | IT Manager | Namibia </p>
   <p align="center"> 🚀 Seeking remote, hybrid, and full-time opportunities </p>
 
-🌟 3+ years of experience in web development
-🌐 Exploring Web, Software, and IT opportunities
-📚 Pursuing Front-End ALX Software Engineering course
+I am an experienced IT Manager with a proven track record in the technology sector. As an accomplished IT professional, I'm driven by a passion for innovation and a keen eye for optimizing IT systems. My dedication to excellence, coupled with a holistic understanding of IT's role in achieving business success, positions me as a valuable asset to any organization navigating the ever-evolving technology landscape.
   
 <p align="center"><h4>
 - 👨‍💻 IT Manager  <br>
