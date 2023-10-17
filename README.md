@@ -4,19 +4,17 @@
   <p align="center"> 🚀 Seeking remote, hybrid, and full-time opportunities </p>
 
 I am an experienced IT Manager with a proven track record in the technology sector. As an accomplished IT professional, I'm driven by a passion for innovation and a keen eye for optimizing IT systems. My dedication to excellence, coupled with a holistic understanding of IT's role in achieving business success, positions me as a valuable asset to any organization navigating the ever-evolving technology landscape.
+<p align="center"> 👨‍💻 IT Manager </p>
+<p align="center"> 🌟 4+ years of experience in Web Development </p>
+<p align="center"> 🌐 Exploring Web, Software, and IT opportunities. <p>
+<p align="center"> 📚 Pursuing Front-End ALX Software Engineering course. </p>
+
 - 👨‍💻 IT Manager  <br>
 - 🌟 4+ years of experience in Web Development. <br>
 - 🌐 Exploring Web, Software, and IT opportunities. <br>
 - 📚 Pursuing Front-End ALX Software Engineering course. <br>
     <p align="center"> Let's connect and collaborate on exciting projects! 💡 </p>
-  
-<p align="center"><h4>
-- 👨‍💻 IT Manager  <br>
-- 🌟 4+ years of experience in Web Development. <br>
-- 🌐 Exploring Web, Software, and IT opportunities. <br>
-- 📚 Pursuing Front-End ALX Software Engineering course. <br>
-    <p align="center"> Let's connect and collaborate on exciting projects! 💡 </p>
-</h4>
+
 
 <p align='center'>
 <a href="https://wa.me/+264813867303?text=Hello Hilya" target="_blank">
