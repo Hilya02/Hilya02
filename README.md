@@ -1,13 +1,13 @@
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, My name is Hilya Ntinda</h1> 
-  <p align="center"> 👨‍💻 Web Developer Specialist | IT Manager | Namibia </p>
+  <p align="center"> 👨‍💻 Web Developer Specialist | Namibia </p>
   <p align="center"> 🚀 Seeking remote, hybrid, and full-time opportunities </p>
 
 I am an experienced IT Manager with a proven track record in the technology sector. As an accomplished IT professional, I'm driven by a passion for innovation and a keen eye for optimizing IT systems. My dedication to excellence, coupled with a holistic understanding of IT's role in achieving business success, positions me as a valuable asset to any organization navigating the ever-evolving technology landscape.
-- 👨‍💻 IT Manager  <br>
+- 👨‍💻 Junior Web Developer <br>
 - 🌟 4+ years of experience in Web Development. <br>
 - 🌐 Exploring Web, Software, and IT opportunities. <br>
-- 📚 Pursuing Front-End ALX Software Engineering course. <br>
+- 📚  Front-End ALX Software Engineering: Horberton Grad School of 2023. <br>
     <h1 align="left"> Let's connect and collaborate on exciting projects! 💡 </h1>
 
 
