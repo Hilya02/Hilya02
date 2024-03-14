@@ -7,7 +7,7 @@ I am an experienced IT Manager with a proven track record in the technology sect
 - 👨‍💻 Junior Web Developer <br>
 - 🌟 4+ years of experience in Web Development. <br>
 - 🌐 Exploring Web, Software, and IT opportunities. <br>
-- 📚  Front-End ALX Software Engineering: Horberton Grad School of 2023. <br>
+- 📚  Front-End ALX Software Engineering: Horberton Grad #Class_of_2023. <br>
     <h1 align="left"> Let's connect and collaborate on exciting projects! 💡 </h1>
 
 
