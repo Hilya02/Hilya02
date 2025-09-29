@@ -11,7 +11,6 @@ I enjoy building **responsive, accessible, and high-performing websites** that c
 - 🌐 Experienced in B2B platforms, e-commerce, and multilingual sites <br>
 - 🤖 Exploring AI integration to enhance web development workflows <br>
 - 📚  Front-End ALX Software Engineering: Horberton Grad #Class_of_2023. | AI for Developers 1 & 2 <br>
-- 📚  <br>
     <h1 align="left"> Let's connect and collaborate on exciting projects! 💡 </h1>
 
 
