@@ -6,7 +6,7 @@
 I'm a passionate Web Developer with a background in **Front-End Development, WordPress, and AI-enhanced solutions**.  
 I enjoy building **responsive, accessible, and high-performing websites** that create real impact.  
 
-- 👨‍💻 killed in WordPress, Webflow, Wix & Bubble.io  <br>
+- 👨‍💻 Skilled in WordPress, Webflow, Wix & Bubble.io  <br>
 - 🌟 5+ years of experience in Web Development. <br>
 - 🌐 Experienced in B2B platforms, e-commerce, and multilingual sites <br>
 - 🤖 Exploring AI integration to enhance web development workflows <br>
