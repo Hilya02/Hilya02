@@ -1,18 +1,23 @@
-<p align="center">
-  <h1 align='center'>Hi there 👋🏾, My name is Hilya Ntinda</h1> 
-  <p align="center"> 👨‍💻 AI | Web Developer Specialist | Namibia </p>
-  <p align="center"> 🚀 Seeking remote, hybrid, and full-time opportunities </p>
+# Hi there 👋🏾, My name is Hilya Ntinda
 
-I'm a passionate Web Developer with a background in **Front-End Development, WordPress, and AI-enhanced solutions**.  
-I enjoy building **responsive, accessible, and high-performing websites** that create real impact.  
+<p align="center">🧪 QA Engineer | Software Testing | Test Automation | Namibia</p>
+<p align="center">🚀 Open to Remote, Hybrid & Full-Time Opportunities</p>
 
-- 👨‍💻 Skilled in WordPress, Webflow, Wix & Bubble.io  <br>
-- 🌟 5+ years of experience in Web Development. <br>
-- 🌐 Experienced in B2B platforms, e-commerce, and multilingual sites <br>
-- 🤖 Exploring AI integration to enhance web development workflows <br>
-- 📚  Front-End ALX Software Engineering: Horberton Grad #Class_of_2023. | AI for Developers 1 & 2 <br>
-    <h1 align="left"> Let's connect and collaborate on exciting projects! 💡 </h1>
+I'm a **QA Engineer and Web Developer** with a Bachelor of Computer Science in Software Development and practical experience in software quality assurance, test automation and web application development.
 
+I enjoy identifying defects, validating application workflows and helping teams deliver reliable, functional and user-friendly software.
+
+- 🧪 Experienced in Functional, Regression, Exploratory, UI and Compatibility Testing.
+- 🤖 Hands-on experience with **Playwright, TypeScript, JavaScript and Selenium WebDriver**.
+- 💻 Experience with Java, JUnit, Maven, Playwright CLI and browser-based test automation.
+- 🔍 Skilled in test scenario development, defect reporting, bug tracking, retesting and validation.
+- 🌐 Experience testing web applications, mobile applications and WordPress-based products.
+- 💳 QA project experience includes StudentStay, PayToday, Adaire Blocks and APST.
+- 🛠️ Familiar with Jira, Confluence, Git, GitHub, VS Code and Chrome DevTools.
+- 🎓 Bachelor of Computer Science (Software Development) | ALX Software Engineering Graduate, Class of 2023.
+- 📚 Continuously developing my skills in test automation, CI/CD workflows and AI-assisted testing.
+
+<h2 align="left">Let's connect and collaborate on building better software! 🚀</h2>
 
 <p align='center'>
 <a href="https://wa.me/+264813867303?text=Hello Hilya" target="_blank">
